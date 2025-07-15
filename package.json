@@ -1,18 +1,20 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "friends-quiz",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "canvas-confetti": "^1.9.3",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
+  }
+},
   "devDependencies": {
     "react-scripts": "5.0.1"
   }
